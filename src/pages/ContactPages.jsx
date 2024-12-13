@@ -30,6 +30,10 @@ const ContactPage = () => {
             Submit
           </button>
         </form>
+        <div >
+          <p className="contact-email">You can also reach us at:  <br></br> </p> 
+          <a href="mailto:Shreejitsen@astraeusnextgen.com " className="email">Shreejitsen@astraeusnextgen.com</a>
+        </div>
       </main>
       <footer className="contact-footer">
         <p>© 2024. All rights reserved.</p>

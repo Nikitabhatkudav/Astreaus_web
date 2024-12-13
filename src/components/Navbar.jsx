@@ -50,6 +50,8 @@ const Navbar = () => {
             { label: 'TEAM', href: '#team' },
             { label: 'ADVISORS', href: '#advisors' },
             { label: 'CONTACT', href: '#contact' },
+            { label: 'PRIVACY POLICY', href: '#privacy_policy' }
+
           ].map((item, index) => (
             <li
               key={index}

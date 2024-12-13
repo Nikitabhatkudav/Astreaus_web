@@ -11,6 +11,7 @@ import Team from './pages/Team'
 import ContactPages from './pages/ContactPages'
 import Advisors from './pages/Advisors'
 import Operation from './pages/Operation'
+import PrivacyPolicy from './pages/PrivacyPolicy'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -26,6 +27,7 @@ function App() {
     <Team></Team>
     <Advisors></Advisors>
     <ContactPages></ContactPages>
+    <PrivacyPolicy></PrivacyPolicy>
 
     </>
   )

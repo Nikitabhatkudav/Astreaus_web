@@ -91,4 +91,14 @@
     text-align: center;
     margin-top: 20px;
   }
-  
+  .contact-email{
+ margin-left: 10px;
+font-size: 20px;
+color: black;
+padding: 20px;
+
+  }
+  .email{
+    padding: 20px;
+    margin-left: 10px;
+  }
